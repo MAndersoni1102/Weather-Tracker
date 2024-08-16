@@ -1,0 +1,48 @@
+body {
+    font-family: "Comic-sans", sans-serif;
+    padding: 20px;
+  }
+  
+  #search-container {
+    margin-bottom: 30px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    margin-right: 10px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 15px;
+  }
+  
+  #current-weather,
+  #forecast {
+    margin-top: 25px;
+  }
+  
+  #forecast-details {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 15px;
+  }
+  
+  .forecast-day {
+    border: 1px solid lightblue;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #search-history {
+    margin-top: 20px;
+  }
+  
+  #search-history button {
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: #efefef;
+    border: 1px solid #ddd;
+    cursor: pointer;
+  }

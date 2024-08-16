@@ -5,3 +5,6 @@ This is used to track the weather and display it using the public source API ope
 # Contribution
 Michael Anderson
 # Screenshots
+![alt text](<Screenshot (19).png>)
+![alt text](<Screenshot (20).png>)
+![alt text](<Screenshot (21).png>)
